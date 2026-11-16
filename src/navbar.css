@@ -1,0 +1,16 @@
+.top-navbar-container {
+  width: 100%;
+  padding: .5rem 0;
+  height: fit-content;
+  justify-items: center;
+}
+
+.top-navbar {
+  gap: .5rem;
+  display: flex;
+  width: fit-content;
+  padding: .4rem 1rem;
+  border-radius: 1rem;
+  flex-direction: row;
+  background-color: var(--accent-bg);
+}
